@@ -1,11 +1,24 @@
-div {
 
-
+#numbertwo {
+    color: #00f;
+    font-size: 36px;
 }
-p {
+
+.odd {
     background-color: #ffccff;
     font-family: Verdana, DejaVu Sans, sans-serif;
+    width: 500px;
+    height: 75px;
 }
-.third-element {
+.adjust-font-size {
     font-size: 24px;
+}
+#fourthelement {
+    background-color: #90ee90;
+    font-weight: bold;
+}
+
+.dimensions {
+    width: 5000px;
+    height: 100px;
 }
